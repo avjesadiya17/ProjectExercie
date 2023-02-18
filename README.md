@@ -14,7 +14,7 @@ Foundation
 '''
 Quotes 
     {
-        Dhruvish = V2.1
+        Dhruvisha = V2.1
 
         Vishva = V2.2
 
