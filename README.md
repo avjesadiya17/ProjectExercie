@@ -1,28 +1,34 @@
 # ProjectExercie
 
-Devloper 1
+'''
+Foundation 
     {
-        Foundation = V1.1
+        Rohit = V1.1
 
-        Foundation = V1.2
+        Sampu = V1.2
 
-        Foundation = V1.3
+        Ruchit = V1.3
     }
+'''
 
-Devloper 2
+'''
+Quotes 
     {
-        Quotes = V2.1
+        Dhruvish = V2.1
 
-        Quotes = V2.2
+        Vishva = V2.2
 
-        Quotes = V2.3
+        Yashika = V2.3
     }
+'''
 
-Devloper 3
+'''
+Styles 
     {
-        Styles = V3.1
+        Dhruvi = V3.1
 
-        Styles = V3.2
+        Kriyal = V3.2
         
-        Styles = V3.3
+        Achyut = V3.3
     }    
+'''
